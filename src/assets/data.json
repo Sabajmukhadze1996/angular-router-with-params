@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Samsung Galaxy S21",
+    "brand": "Samsung",
+    "price": 799.99,
+    "description": "The Samsung Galaxy S21 is the latest flagship smartphone from Samsung, featuring a 6.2-inch Dynamic AMOLED display, a Snapdragon 888 processor, 8GB of RAM, and 128GB of storage.",
+    "image": "assets/Samsung_Galaxy_S21_FE_5G_8_GB_128_GB_White_1.jpeg",
+    "features": {
+      "display": "6.2 inches, 1080 x 2400 pixels, Dynamic AMOLED",
+      "processor": "Snapdragon 888",
+      "memory": "8GB RAM, 128GB storage",
+      "camera": "12 MP (wide), 64 MP (telephoto), 12 MP (ultrawide)",
+      "battery": "4000 mAh"
+    }
+  },
+  {
+    "id": 2,
+    "name": "iPhone 13",
+    "brand": "Apple",
+    "price": 799.0,
+    "description": "The iPhone 13 is the latest smartphone from Apple, featuring a 6.1-inch Super Retina XDR display, an A15 Bionic chip, 4GB of RAM, and up to 256GB of storage.",
+    "image": "assets/Apple_iPhone_13_128_GB_4_GB_Midnight_1.webp",
+    "features": {
+      "display": "6.1 inches, 1170 x 2532 pixels, Super Retina XDR",
+      "processor": "A15 Bionic",
+      "memory": "4GB RAM, up to 256GB storage",
+      "camera": "12 MP (wide), 12 MP (ultrawide)",
+      "battery": "3095 mAh"
+    }
+  },
+  {
+    "id": 3,
+    "name": "OnePlus 9 Pro",
+    "brand": "OnePlus",
+    "price": 969.0,
+    "description": "The OnePlus 9 Pro is a high-end smartphone featuring a 6.7-inch Fluid AMOLED display, a Snapdragon 888 processor, 12GB of RAM, and 256GB of storage.",
+    "image": "assets/0150007_oneplus-9-pro-5g-12256gb-pine-green_550.jpeg",
+    "features": {
+      "display": "6.7 inches, 1440 x 3216 pixels, Fluid AMOLED",
+      "processor": "Snapdragon 888",
+      "memory": "12GB RAM, 256GB storage",
+      "camera": "48 MP (wide), 8 MP (telephoto), 50 MP (ultrawide), 2 MP (monochrome)",
+      "battery": "4500 mAh"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Sony Xperia 1 III",
+    "brand": "Sony",
+    "price": 1299.99,
+    "description": "The Sony Xperia 1 III is a premium smartphone featuring a 6.5-inch 4K HDR OLED display, a Snapdragon 888 processor, 12GB of RAM, and up to 512GB of storage.",
+    "image": "assets/Sony Xperia 1 III.png",
+    "features": {
+      "display": "6.5 inches, 1644 x 3840 pixels, 4K HDR OLED",
+      "processor": "Snapdragon 888",
+      "memory": "12GB RAM, up to 512GB storage",
+      "camera": "12 MP (wide), 12 MP (telephoto), 12 MP (ultrawide)",
+      "battery": "4500 mAh"
+    }
+  }
+]

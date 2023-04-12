@@ -1,0 +1,20 @@
+ul li{
+    list-style-type: none;
+    border-bottom: 1px solid #dbd9d9;
+    width: 280px;
+    margin-top: 0.4rem;
+    padding: 0.3rem;
+}
+
+ul li:hover {
+    background-color: blueviolet;
+    cursor: pointer;
+}
+
+
+
+ul li.selected {
+    background-color: blue !important;
+    color: white !important;
+    font-size: 4rem !important;
+}
